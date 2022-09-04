@@ -1,15 +1,6 @@
-# Wiki
+# Chargetics Wiki
 
-Description
 
 ## Category :
 
-Content
-
-```
-Code
-```
-
-### Ref :
-
-  * [link](link)
+  * [Charges](link)
